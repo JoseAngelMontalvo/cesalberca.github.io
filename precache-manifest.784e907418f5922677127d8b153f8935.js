@@ -1,35 +1,35 @@
 self.__precacheManifest = [
   {
-    "revision": "fc90709782e0e680cbb6",
-    "url": "/css/home.1b6479f5.css"
+    "revision": "f3eb7c2422374af27fbb",
+    "url": "/css/home.57b54839.css"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/robots.txt"
   },
   {
-    "revision": "fc90709782e0e680cbb6",
-    "url": "/js/home.51e97961.js"
+    "revision": "f3eb7c2422374af27fbb",
+    "url": "/js/home.c0a5a0f5.js"
   },
   {
     "revision": "f9f31479922708469a9f",
     "url": "/js/about.dc7804aa.js"
   },
   {
-    "revision": "ae75c6f7f03771685fd5",
-    "url": "/js/talks.f7f3db10.js"
+    "revision": "03075723b2a4ce3da6ee",
+    "url": "/js/talks.de7b9546.js"
   },
   {
-    "revision": "ee599303841dbd6944e1",
-    "url": "/js/article.e7473016.js"
+    "revision": "8a0418e55c16d1b6a013",
+    "url": "/js/article.001096ea.js"
   },
   {
-    "revision": "e3914a9784ae9a1a8f16",
-    "url": "/js/articles.965946a3.js"
+    "revision": "e9601ab0591f21b81d40",
+    "url": "/js/articles.00c026d5.js"
   },
   {
-    "revision": "2882f492ba49ef158d26",
-    "url": "/js/article~articles~home~talks.a2b0470a.js"
+    "revision": "aa3f1f5ec097371f9697",
+    "url": "/js/article~articles~home~talks.657e31b7.js"
   },
   {
     "revision": "dc823f7a3635b8ffced2",
@@ -40,11 +40,11 @@ self.__precacheManifest = [
     "url": "/js/about~article~articles~home~talks.2c6bee2c.js"
   },
   {
-    "revision": "2cd77d66952f2bbe42b8",
-    "url": "/js/app.c6ccf742.js"
+    "revision": "ffb58a4dbc3b924bc57e",
+    "url": "/js/app.1cd35bc7.js"
   },
   {
-    "revision": "0352b069645bec5e6c7abbeb15dad479",
+    "revision": "3dd84ffda2b3ea7714108e6eeb38ddcc",
     "url": "/index.html"
   },
   {
@@ -60,16 +60,16 @@ self.__precacheManifest = [
     "url": "/img/abstract-dark-design.e074f6fb.jpg"
   },
   {
-    "revision": "ae75c6f7f03771685fd5",
-    "url": "/css/talks.7bfbf526.css"
+    "revision": "03075723b2a4ce3da6ee",
+    "url": "/css/talks.71879fb0.css"
   },
   {
-    "revision": "ee599303841dbd6944e1",
-    "url": "/css/article.bd4f1473.css"
+    "revision": "8a0418e55c16d1b6a013",
+    "url": "/css/article.893197bd.css"
   },
   {
-    "revision": "2cd77d66952f2bbe42b8",
-    "url": "/css/app.305ebb52.css"
+    "revision": "ffb58a4dbc3b924bc57e",
+    "url": "/css/app.67822513.css"
   },
   {
     "revision": "e01f31d285350f4c3cc8b77cdd15a0c1",
