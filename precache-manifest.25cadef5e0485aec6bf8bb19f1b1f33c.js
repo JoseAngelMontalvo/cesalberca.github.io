@@ -56,7 +56,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/about~article.ab80dd5b.css"
   },
   {
-    "revision": "92e7121a01f3e41f396f",
+    "revision": "d7c52456e055436501d5",
     "url": "/css/app.f15befcc.css"
   },
   {
@@ -128,7 +128,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/rainbow.42a61ebc.jpeg"
   },
   {
-    "revision": "1b31f44ab5461e7c609ce60cc10313cc",
+    "revision": "c690c4048c24763dc819f4cfcd613dd8",
     "url": "/index.html"
   },
   {
@@ -140,8 +140,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/about~article.0dfc3a2d.js"
   },
   {
-    "revision": "92e7121a01f3e41f396f",
-    "url": "/js/app.8695676c.js"
+    "revision": "d7c52456e055436501d5",
+    "url": "/js/app.fd229633.js"
   },
   {
     "revision": "d8861a2fd8128573abb6",
